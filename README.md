@@ -1,16 +1,36 @@
-# canvas
+# DRAWING CANVAS 
 
-A new Flutter project.
+ In this app you able to Drawing Sketch and Download the Sketch.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## FEATURES
 
-A few resources to get you started if this is your first Flutter project:
+- [Drawing Sketch]
+- [Download]
+- [Eraser]
+- [Undo and Redo]
+- [Clear]
+- [Stroke Size]
+- [Eraser Size]
+- [Custom Color]
+- [Able to add Background Image]
+- [Different Shapes]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## LIVE DEMO
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## LIVE DEMO
+
+
+<iframe src="assets/svgs/1.jpeg" width="300" height="600" frameborder="0" ></iframe>
+<iframe src="assets/svgs/2.jpeg" width="300" height="600" frameborder="0"></iframe>
+<iframe src="assets/svgs/3.jpeg" width="300" height="600" frameborder="0"></iframe>
+<iframe src="assets/svgs/4.jpeg" width="300" height="600" frameborder="0"></iframe>
+<iframe src="assets/svgs/5.jpeg" width="300" height="600" frameborder="0"></iframe>
+
+
+## DOWNLOAD AND INSTALL
+
+
+- Download link: [Click here](https://drive.google.com/file/d/1v0Dr8j4ZTl9gAx1e9OXDZmtOhCxr_cdy/view?usp=drivesdk),
+
+
