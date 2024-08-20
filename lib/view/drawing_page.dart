@@ -3,13 +3,12 @@ import 'dart:ui';
 import 'package:canvas/view/drawing_canvas/widgets/top_bar.dart';
 import 'package:flutter/material.dart' hide Image;
 import 'package:flutter_hooks/flutter_hooks.dart';
-
 import '../main.dart';
 import 'drawing_canvas/drawing_canvas.dart';
 import 'drawing_canvas/models/drawing_mode.dart';
 import 'drawing_canvas/models/sketch.dart';
 import 'drawing_canvas/widgets/bottom_bar.dart';
-import 'drawing_canvas/widgets/canvas_side_bar.dart';
+
 
 class DrawingPage extends HookWidget {
   const DrawingPage({Key? key}) : super(key: key);
@@ -37,7 +36,7 @@ class DrawingPage extends HookWidget {
       body: Stack(
         children: [
           Container(
-            color: kCanvasColor,
+            color: CanvasColor,
             width: double.maxFinite,
             height: double.maxFinite,
             child: DrawingCanvas(

@@ -57,7 +57,7 @@ class DrawingCanvas extends HookWidget {
             ? eraserSize.value
             : strokeSize.value,
         color: drawingMode.value == DrawingMode.eraser
-            ? kCanvasColor
+            ? CanvasColor
             : selectedColor.value,
         sides: polygonSides.value,
       ),
@@ -79,7 +79,7 @@ class DrawingCanvas extends HookWidget {
             ? eraserSize.value
             : strokeSize.value,
         color: drawingMode.value == DrawingMode.eraser
-            ? kCanvasColor
+            ? CanvasColor
             : selectedColor.value,
         sides: polygonSides.value,
       ),
@@ -98,7 +98,7 @@ class DrawingCanvas extends HookWidget {
             ? eraserSize.value
             : strokeSize.value,
         color: drawingMode.value == DrawingMode.eraser
-            ? kCanvasColor
+            ? CanvasColor
             : selectedColor.value,
         sides: polygonSides.value,
       ),
@@ -119,7 +119,7 @@ class DrawingCanvas extends HookWidget {
             child: Container(
               height: MediaQuery.of(context).size.height,
               width: MediaQuery.of(context).size.width,
-              color: kCanvasColor,
+              color: CanvasColor,
               child: CustomPaint(
                 painter: SketchPainter(
                   sketches: sketches,
