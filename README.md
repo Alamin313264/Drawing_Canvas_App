@@ -5,27 +5,27 @@
 
 ## FEATURES
 
-- [Drawing Sketch]
-- [Download]
-- [Eraser]
-- [Undo and Redo]
-- [Clear]
-- [Stroke Size]
-- [Eraser Size]
-- [Custom Color]
-- [Able to add Background Image]
-- [Different Shapes]
+- Drawing Sketch
+- Download
+- Eraser
+- Undo and Redo
+- Clear
+- Stroke Size
+- Eraser Size
+- Custom Color
+- Able to add Background Image
+- Different Shapes
+
 
 ## LIVE DEMO
 
-## LIVE DEMO
 
+<img src="assets/svgs/1.jpeg"  height="600" alt="Drawing Canvas Image 1" />
+<img src="assets/svgs/2.jpeg"  height="600" alt="Drawing Canvas Image 2" />
+<img src="assets/svgs/3.jpeg" height="600" alt="Drawing Canvas Image 3" />
+<img src="assets/svgs/4.jpeg" height="600" alt="Drawing Canvas Image 4" />
+<img src="assets/svgs/5.jpeg"  height="600" alt="Drawing Canvas Image 5" />
 
-<iframe src="assets/svgs/1.jpeg" width="300" height="600" frameborder="0" ></iframe>
-<iframe src="assets/svgs/2.jpeg" width="300" height="600" frameborder="0"></iframe>
-<iframe src="assets/svgs/3.jpeg" width="300" height="600" frameborder="0"></iframe>
-<iframe src="assets/svgs/4.jpeg" width="300" height="600" frameborder="0"></iframe>
-<iframe src="assets/svgs/5.jpeg" width="300" height="600" frameborder="0"></iframe>
 
 
 ## DOWNLOAD AND INSTALL
